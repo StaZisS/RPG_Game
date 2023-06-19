@@ -1,0 +1,103 @@
+{
+  "Soup": {
+    "ItemStackProperty": {
+      "Price": 100,
+      "Name": "Soup",
+      "MaxStackSize": 64
+    },
+    "Effects": [
+      {
+        "Type": "Temporary",
+        "Name": "Regeneration",
+        "EffectLevel": 1,
+        "EffectDuration": 10
+      }
+    ]
+  },
+
+  "Mushroom": {
+    "ItemStackProperty": {
+      "Price": 50,
+      "Name": "Mushroom",
+      "MaxStackSize": 64
+    },
+    "Effects": [
+      {
+        "Type": "Temporary",
+        "Name": "Poisoning",
+        "EffectLevel": 1,
+        "EffectDuration": 10
+      }
+    ]
+  },
+
+  "Meat": {
+    "ItemStackProperty": {
+      "Price": 200,
+      "Name": "Meat",
+      "MaxStackSize": 64
+    },
+    "Effects": [
+      {
+        "Type": "Temporary",
+        "Name": "Regeneration",
+        "EffectLevel": 3,
+        "EffectDuration": 20
+      },
+      {
+        "Type": "Temporary",
+        "Name": "Speed",
+        "EffectLevel": 1,
+        "EffectDuration": 10
+      }
+    ]
+  },
+
+  "TreatmentPotion": {
+    "ItemStackProperty": {
+      "Price": 500,
+      "Name": "TreatmentPotion",
+      "MaxStackSize": 64
+    },
+    "Effects": [
+      {
+        "Type": "Momentary",
+        "Name": "MomentaryRegeneration",
+        "EffectLevel": 5
+      }
+    ]
+  },
+
+  "AgilityPotion" : {
+    "ItemStackProperty": {
+      "Price": 500,
+      "Name": "AgilityPotion",
+      "MaxStackSize": 64
+    },
+    "Effects": [
+      {
+        "Type": "Temporary",
+        "Name": "Speed",
+        "EffectLevel": 5,
+        "EffectDuration": 20
+      }
+    ]
+  },
+
+  "PowerPotion": {
+    "ItemStackProperty": {
+      "Price": 500,
+      "Name": "PowerPotion",
+      "MaxStackSize": 64
+    },
+    "Effects": [
+      {
+        "Type": "Temporary",
+        "Name": "Power",
+        "EffectLevel": 5,
+        "EffectDuration": 20
+      }
+    ]
+  }
+
+}

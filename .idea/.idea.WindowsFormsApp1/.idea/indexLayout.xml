@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UserContentModel">
+    <attachedFolders>
+      <Path>WindowsFormsApp1/Inventory</Path>
+      <Path>WindowsFormsApp1/LivingEntity</Path>
+      <Path>WindowsFormsApp1/PropertyJson</Path>
+      <Path>WindowsFormsApp1/SubscriptionService</Path>
+    </attachedFolders>
+    <explicitIncludes>
+      <Path>WindowsFormsApp1/Inventory</Path>
+      <Path>WindowsFormsApp1/LivingEntity</Path>
+      <Path>WindowsFormsApp1/PropertyJson</Path>
+      <Path>WindowsFormsApp1/SubscriptionService</Path>
+    </explicitIncludes>
+    <explicitExcludes />
+  </component>
+</project>

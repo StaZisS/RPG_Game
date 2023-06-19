@@ -1,0 +1,62 @@
+{
+  "CrazyRobot": {
+      "Health" : 150,
+      "Food" : 100,
+      "Speed" : 10.0,
+      "Power" : 5.0,
+      "MaxHealth" : 150,
+      "MaxFood" : 100,
+      "MaxSpeed" : 20.0,
+      "MaxPower" : 10.0,
+      "ViewDistance" : 300,
+      "AttackDistance" : 1
+  },
+  "Marauder": {
+      "Health" : 60,
+      "Food" : 100,
+      "Speed" : 40.0,
+      "Power" : 1.0,
+      "MaxHealth" : 60,
+      "MaxFood" : 100,
+      "MaxSpeed" : 60.0,
+      "MaxPower" : 2.0,
+      "ViewDistance" : 600,
+      "AttackDistance" : 3
+  },
+  "Rat" : {
+      "Health" : 10,
+      "Food" : 100,
+      "Speed" : 20.0,
+      "Power" : 1.0,
+      "MaxHealth" : 10,
+      "MaxFood" : 100,
+      "MaxSpeed" : 30.0,
+      "MaxPower" : 1.0,
+      "ViewDistance" : 200,
+      "AttackDistance" : 1
+  },
+  "Skeleton" : {
+      "Health" : 50,
+      "Food" : 100,
+      "Speed" : 10.0,
+      "Power" : 3.0,
+      "MaxHealth" : 50,
+      "MaxFood" : 100,
+      "MaxSpeed" : 20.0,
+      "MaxPower" : 5.0,
+      "ViewDistance" : 500,
+      "AttackDistance" : 6
+  },
+  "Wolf" : {
+      "Health" : 30,
+      "Food" : 100,
+      "Speed" : 30.0,
+      "Power" : 2.0,
+      "MaxHealth" : 30,
+      "MaxFood" : 100,
+      "MaxSpeed" : 50.0,
+      "MaxPower" : 2.0,
+      "ViewDistance" : 300,
+      "AttackDistance" : 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "MomentaryRegeneration": {
+    "HealthRegeneration" : 1
+  },
+  "MomentarySatiety": {
+    "FoodSatiety" : 1
+  }
+}

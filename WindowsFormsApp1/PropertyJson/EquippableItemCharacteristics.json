@@ -1,0 +1,47 @@
+{
+  "Boots": {
+    "ItemStackProperty": {
+      "Price": 300,
+      "Name": "Boots",
+      "MaxStackSize" : 1,
+      "StackSize": 1
+    },
+      "TypeEquippableItem" : "Armor"
+  },
+  "Helmet": {
+    "ItemStackProperty": {
+      "Price": 300,
+      "Name": "Helmet",
+      "MaxStackSize" : 1,
+      "StackSize": 1
+    },
+      "TypeEquippableItem" : "Armor"
+  },
+  "BodyArmor": {
+    "ItemStackProperty": {
+      "Price": 500,
+      "Name": "BodyArmor",
+      "MaxStackSize" : 1,
+      "StackSize": 1
+    },
+      "TypeEquippableItem" : "Armor"
+  },
+  "Leggings": {
+    "ItemStackProperty": {
+      "Price": 400,
+      "Name": "Leggings",
+      "MaxStackSize" : 1,
+      "StackSize": 1
+    },
+      "TypeEquippableItem" : "Armor"
+  },
+  "Sword": {
+    "ItemStackProperty": {
+      "Price": 600,
+      "Name": "Sword",
+      "MaxStackSize" : 1,
+      "StackSize": 1
+    },
+      "TypeEquippableItem" : "Weapon"
+  }
+}

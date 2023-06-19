@@ -1,0 +1,16 @@
+{
+  "Poisoning" : {
+    "FoodRegeneration" : -0.1,
+    "HealthRegeneration" : -0.1
+  },
+  "Speed" : {
+    "Speed" : 5
+  },
+  "Power" : {
+    "Power" : 5
+  },
+  "Regeneration" : {
+    "HealthRegeneration" : 0.1,
+    "FoodRegeneration" : 0.1
+  }
+}

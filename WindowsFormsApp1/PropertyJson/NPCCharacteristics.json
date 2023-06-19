@@ -1,0 +1,38 @@
+{
+  "Dealer" : {
+    "Health" : 100,
+    "Food" : 100,
+    "Speed" : 5.0,
+    "Power" : 30.0,
+    "MaxHealth" : 100,
+    "MaxFood" : 100,
+    "MaxSpeed" : 10.0,
+    "MaxPower" : 50.0,
+    "ViewDistance" : 30,
+    "AttackDistance" : 3
+  },
+  "Inhabitant" : {
+    "Health" : 100,
+    "Food" : 100,
+    "Speed" : 5.0,
+    "Power" : 30.0,
+    "MaxHealth" : 100,
+    "MaxFood" : 100,
+    "MaxSpeed" : 10.0,
+    "MaxPower" : 50.0,
+    "ViewDistance" : 30,
+    "AttackDistance" : 3
+  },
+  "Blacksmith" : {
+    "Health" : 100,
+    "Food" : 100,
+    "Speed" : 5.0,
+    "Power" : 30.0,
+    "MaxHealth" : 100,
+    "MaxFood" : 100,
+    "MaxSpeed" : 10.0,
+    "MaxPower" : 50.0,
+    "ViewDistance" : 30,
+    "AttackDistance" : 3
+  }
+}
